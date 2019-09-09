@@ -1,4 +1,4 @@
-import 'package:flute_example/data/song_data.dart';
+import 'package:dj_square/data/song_data.dart';
 import 'package:flutter/material.dart';
 
 class MPInheritedWidget extends InheritedWidget {

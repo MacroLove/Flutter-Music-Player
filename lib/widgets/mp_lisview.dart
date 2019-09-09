@@ -1,8 +1,8 @@
 import 'dart:io';
-import 'package:flute_example/data/song_data.dart';
-import 'package:flute_example/pages/now_playing.dart';
-import 'package:flute_example/widgets/mp_circle_avatar.dart';
-import 'package:flute_example/widgets/mp_inherited.dart';
+import 'package:dj_square/data/song_data.dart';
+import 'package:dj_square/pages/now_playing.dart';
+import 'package:dj_square/widgets/mp_circle_avatar.dart';
+import 'package:dj_square/widgets/mp_inherited.dart';
 import 'package:flutter/material.dart';
 
 class MPListView extends StatelessWidget {

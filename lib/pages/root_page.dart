@@ -1,6 +1,6 @@
-import 'package:flute_example/pages/now_playing.dart';
-import 'package:flute_example/widgets/mp_inherited.dart';
-import 'package:flute_example/widgets/mp_lisview.dart';
+import 'package:dj_square/pages/now_playing.dart';
+import 'package:dj_square/widgets/mp_inherited.dart';
+import 'package:dj_square/widgets/mp_lisview.dart';
 import 'package:flute_music_player/flute_music_player.dart';
 import 'package:flutter/material.dart';
 
